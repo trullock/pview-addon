@@ -6,7 +6,6 @@ description: >
 url: https://github.com/wez/pview
 arch:
   - amd64
-image: "ghcr.io/wez/pview-{arch}"
 init: false
 startup: services
 services:
